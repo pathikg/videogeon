@@ -6,7 +6,7 @@ Generate videos from story prompts using AI. This project supports two pipelines
 
 ## Demo
 
-![Demo Video](demo/demo_video.gif)
+![Demo video](https://github.com/pathikg/videogeon/raw/main/demo/demo_video.gif)
 
 ## Installation
 

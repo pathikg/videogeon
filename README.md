@@ -6,9 +6,7 @@ Generate videos from story prompts using AI. This project supports two pipelines
 
 ## Demo
 
-<video width="100%" controls>
-  <source src="demo/demo_video.mp4" type="video/mp4">
-</video>
+![Demo Video](demo/demo_video.mp4)
 
 ## Installation
 

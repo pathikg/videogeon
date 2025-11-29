@@ -4,6 +4,12 @@ Generate videos from story prompts using AI. This project supports two pipelines
 - **pipeline.py**: Uses Google's Gemini API for video generation
 - **pipeline_replicate.py**: Uses Replicate for video generation
 
+## Demo
+
+<video width="100%" controls>
+  <source src="demo/demo_video.mp4" type="video/mp4">
+</video>
+
 ## Installation
 
 1. Install dependencies:
